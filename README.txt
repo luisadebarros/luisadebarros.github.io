@@ -4,4 +4,4 @@ Esta página foi construida utilizando:
 - HTML5
 - JavaScript
 - BootStrap
-- CSS3
+- CSS
