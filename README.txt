@@ -1,6 +1,6 @@
 Esta página foi construida utilizando:
 
-- GitHub Oages
+- GitHub Pages
 - HTML5
 - JavaScript
 - BootStrap
